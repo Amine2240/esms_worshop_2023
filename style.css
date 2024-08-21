@@ -1,0 +1,56 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "poppins", sans-serif;
+}
+
+
+
+.nav {
+
+  display: flex;
+
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.bib {
+  align-items: center;
+  display: flex;
+  list-style-type: none;
+  gap: 20px;
+  padding-right: 20px;
+}
+
+.amin {
+  display: flex;
+  background-color: aquamarine;
+  padding: 10px;
+  border-radius: 20px;
+  border: none;
+}
+
+.ali {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  
+}
+.sara {
+  color:gray;
+}
+.moh {
+  color:gray;
+}
+.nano{
+  display: flex;
+  background-color: aquamarine;
+  padding: 10px;
+  border-radius: 20px;
+  border: none;
+
+}
